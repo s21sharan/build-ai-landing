@@ -19,22 +19,10 @@ export default function Home() {
             Build physical superintelligence to free humanity from manual labor
           </p>
           
-          <div className="flex gap-8 mt-8">
-            <a
-              href="#"
-              className="px-8 py-3 bg-transparent border border-white text-white hover:bg-white hover:text-black transition-colors duration-200 flex items-center gap-2 font-[family-name:var(--font-turret-road)]"
-            >
-              Read our manifesto
-              <span className="text-lg">→</span>
-            </a>
-            
-            <a
-              href="#"
-              className="px-8 py-3 bg-white text-black hover:bg-gray-200 transition-colors duration-200 flex items-center gap-2 font-[family-name:var(--font-turret-road)]"
-            >
-              Join us
-              <span className="text-lg">→</span>
-            </a>
+          <div className="mt-8">
+            <div className="px-8 py-3 border border-white text-white font-[family-name:var(--font-turret-road)]">
+              coming soon
+            </div>
           </div>
         </div>
       </div>
