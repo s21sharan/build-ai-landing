@@ -21,6 +21,9 @@ const turretRoad = Turret_Road({
 export const metadata: Metadata = {
   title: "build.ai",
   description: "Build physical superintelligence to free humanity from manual labor",
+  icons: {
+    icon: "/logo.png",
+  },
 };
 
 export default function RootLayout({
